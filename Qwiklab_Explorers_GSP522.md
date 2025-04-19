@@ -1,4 +1,4 @@
-# Discover and Protect Sensitive Data Across Your Ecosystem: Challenge Lab || [GSP522](https://www.cloudskillsboost.google/course_templates/1177/labs) ||
+# Discover and Protect Sensitive Data Across Your Ecosystem: Challenge Lab || [GSP522](https://www.cloudskillsboost.google/course_templates/1177) ||
 
 ---
 ## ⚠️ **Disclaimer:**
