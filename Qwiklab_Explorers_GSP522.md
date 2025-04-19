@@ -10,9 +10,9 @@
 - ## Run in Cloud Shell:</strong></p>
 
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem%20Challenge%20Lab/arcadecrew.sh
-sudo chmod +x arcadecrew.sh
-./arcadecrew.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Discover-and-Protect-Sensitive-Data-Across-Your-Ecosystem-Challenge-Lab-GSP522/refs/heads/main/qwiklab_explorers_gsp522.sh
+sudo chmod +x qwiklab_explorers_gsp522.sh
+./qwiklab_explorers_gsp522.sh
 ```
 
 - ## Run in Terminal:</strong></p>
