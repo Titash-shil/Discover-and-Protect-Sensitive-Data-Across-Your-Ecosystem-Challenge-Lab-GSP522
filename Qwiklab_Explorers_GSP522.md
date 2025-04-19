@@ -5,7 +5,9 @@
 #### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
 
-* Open **`Sensitive Data Protection`** from [HERE](https://console.cloud.google.com/security/sensitive-data-protection/create/discoveryConfiguration;source=DATA_PROFILE_COVERAGE_DASHBOARD;discoveryType=4?project=)
+* Go to **`Sensitive Data Protection`** from [HERE](https://console.cloud.google.com/security/sensitive-data-protection/create/discoveryConfiguration;source=DATA_PROFILE_COVERAGE_DASHBOARD;discoveryType=4?project=)
+
+* Follow the video carefully & proceed step by step 
 
 - ## Run in Cloud Shell:</strong></p>
 
