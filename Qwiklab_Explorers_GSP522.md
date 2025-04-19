@@ -20,7 +20,7 @@ sudo chmod +x qwiklab_explorers_gsp522.sh
 ```
 rm deidentify-model-response-challenge-lab-v1.0.0.ipynb
 
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem%20Challenge%20Lab/deidentify-model-response-challenge-lab-v1.0.0.ipynb
+curl -LO raw.githubusercontent.com/Titash-shil/Discover-and-Protect-Sensitive-Data-Across-Your-Ecosystem-Challenge-Lab-GSP522/refs/heads/main/deidentify-model-response-challenge-lab-v1.0.0.ipynb
 ```
 
 ---
